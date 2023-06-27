@@ -6,3 +6,8 @@ content2 {
     padding: 40px 0;
 }
 
+.image {
+    width: 95%;
+    border-radius: 4%;
+    padding: 10px 0;
+}
