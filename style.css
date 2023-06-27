@@ -1,3 +1,8 @@
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
 .flex {
     display: flex;
 }
