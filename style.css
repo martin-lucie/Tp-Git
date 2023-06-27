@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.columnTop {
+    display: flex;
+    
+}
+
+.column1 {
+    align-items: center;
+    margin: 10px;
+}
+
+.column1 img {    
+    width: 99%;
+}
+
+.column1 p {
+    margin : 10px;
+    text-align: center;
+}
